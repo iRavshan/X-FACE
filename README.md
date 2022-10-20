@@ -1,16 +1,16 @@
 # X-FACE
 <div align="center">
 
-<a href="https://github.com/akshitagupta15june/Face-X/issues"><img src="https://img.shields.io/github/issues/akshitagupta15june/Face-X"></a>
-<a href="https://github.com/akshitagupta15june/Face-X/pulls"><img src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-X"></a>
-<a href="https://github.com/akshitagupta15june/Face-X/network/members"><img src="https://img.shields.io/github/forks/akshitagupta15june/Face-X"></a>
-<a href="https://github.com/akshitagupta15june/Face-X/stargazers"><img src="https://img.shields.io/github/stars/akshitagupta15june/Face-X"></a>
-<a href="https://github.com/akshitagupta15june/Face-X/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshitagupta15june/Face-X"></a>
+<a href="https://github.com/iRavshan/X-FACE/issues"><img src="https://img.shields.io/github/issues/akshitagupta15june/Face-X"></a>
+<a href="https://github.com/iRavshan/X-FACE/pulls"><img src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-X"></a>
+<a href="https://github.com/iRavshan/X-FACE/network/members"><img src="https://img.shields.io/github/forks/akshitagupta15june/Face-X"></a>
+<a href="https://github.com/iRavshan/X-FACE/stargazers"><img src="https://img.shields.io/github/stars/akshitagupta15june/Face-X"></a>
+<a href="https://github.com/iRavshan/X-FACE/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshitagupta15june/Face-X"></a>
 
-<img src="https://github.com/akshitagupta15june/Face-X/blob/master/Cartoonify-Image/logo/Face-X.png" width=250 height=250>
+<img src="https://github.com/iRavshan/X-FACE/blob/master/Cartoonify-Image/logo/Face-X.png" width=250 height=250>
 
 <h3>Join official <a href="https://discord.com/invite/Jmc97prqjb">Discord Channel</a> for discussion</h3>
-<h2>Watch this <a href="https://youtu.be/VK-IaRY9szg">Video</a> to know about Face-X</h2>
+<h2>Watch this <a href="https://youtu.be/VK-IaRY9szg">Video</a> to know about X-FACE</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/akshitagupta15june/Face-X) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
@@ -161,11 +161,11 @@ pip install -r requirements.txt
 <table>
 	<tr>
 		<td align="center">
-			<a href="https://github.com/akshitagupta15june">
+			<a href="https://github.com/iRavshan">
 				<img src="https://avatars0.githubusercontent.com/u/57909583?v=4" width="100px" alt="" />
-				<br /> <sub><b>akshitagupta15june</b></sub>
+				<br /> <sub><b>iRavshan</b></sub>
 			</a>
-			<br /> <a href="https://github.com/akshitagupta15june"> 
+			<br /> <a href="https://github.com/iRavshan"> 
 		👑 Admin
 	    </a>
 		</td>
@@ -173,16 +173,16 @@ pip install -r requirements.txt
 </table>
 
 ## Our valuable Contributors👩‍💻👨‍💻
-<a href="https://github.com/akshitagupta15june/Face-X/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=akshitagupta15june/Face-X" height="450" width="750" /> </a>
+<a href="https://github.com/iRavshan/X-FACE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iRavshan/X-FACE" height="450" width="750" /> </a>
 
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/qww.png" height="350" width="50%" align="left"/>
 <p style="clear:both;">
-<h1><a name="contributing"></a><a name="community"></a> <a href="https://github.com/akshitagupta15june/Face-X">Community</a> and <a href="https://github.com/akshitagupta15june/Face-X/blob/master/CONTRIBUTING.md">Contributing</a></h1>
-<p>Please do! Contributions<a href="https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> and <a href=" ">pull requests</a> are welcome.Contributors are expected to adhere to the<a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"> Code of Conduct</a>.
+<h1><a name="contributing"></a><a name="community"></a> <a href="https://github.com/iRavshan/X-FACE">Community</a> and <a href="https://github.com/iRavshan/X-FACE/blob/master/CONTRIBUTING.md">Contributing</a></h1>
+<p>Please do! Contributions<a href="https://github.com/iRavshan/X-FACE/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/iRavshan/X-FACE/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/iRavshan/X-FACE/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/iRavshan/X-FACE/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> and <a href=" ">pull requests</a> are welcome.Contributors are expected to adhere to the<a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"> Code of Conduct</a>.
 </p>
 <p>
-Jump into our <a href="https://discord.com/invite/Jmc97prqjb">Discord</a>! Our projects are community-built and welcome collaboration. 👍Be sure to see the <a href="https://github.com/akshitagupta15june/Face-X/blob/master/Readme.md">Face-X Community Welcome Guide</a> for a tour of resources available to you.
+Jump into our <a href="https://discord.com/invite/Jmc97prqjb">Discord</a>! Our projects are community-built and welcome collaboration. 👍Be sure to see the <a href="https://github.com/iRavshan/X-FACE/blob/master/Readme.md">Face-X Community Welcome Guide</a> for a tour of resources available to you.
 </p>
 <p>
 
